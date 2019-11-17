@@ -24,7 +24,7 @@ void main()
 
 		if (swa == 0){
 
-			break;
+			j = SIZE - 1;
 
 		}
 		else{
